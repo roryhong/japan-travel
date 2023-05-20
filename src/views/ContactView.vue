@@ -1,5 +1,5 @@
 <template>
-  <main class="login">
+  <main class="contact">
     <form>
       <div class="sendEmail">
         <label for="email">寄送email給我們:</label>

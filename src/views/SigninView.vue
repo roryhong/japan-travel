@@ -1,5 +1,5 @@
 <template>
-  <main class="login">
+  <main class="signin">
     <form>
       <h1>會員註冊</h1>
       <div class="email">
